@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">3 botones 2 activites</string>
+    <string name="notification_title">Has sido notificado!</string>
+    <string name="notification_text">Esta es tu notificacion</string>
+    <string name="update">Notificacion de actualizacion</string>
+    <string name="notify_me">Notificame</string>
+    <string name="update_me">Actualizar</string>
+    <string name="cancel_me">Cancelar</string>
+    <string name="notification_updated">Notificación actualizada!</string>
+    <string name="mssg_act_scnd">Estaras en esta pantalla (activity) por 5 segundos... </string>
+</resources>
